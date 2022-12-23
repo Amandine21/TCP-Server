@@ -38,7 +38,7 @@ calling it in an if statement like the previous error checks.
 <p align="center">
   <img src=GraphTCP.PNG>
 </p>
-<h2 style="text-align: center;"> Insight </h2>
+<h2 style="text-align: center;">Insight </h2>
 &emsp; Engineering tends to be about tradeoffs, and the purpose of this assignment was to
 change the incoming FIFO request channels from PA3 into TCP channels. the TCP is going to
 have a slower amount of time compared to the FIFO IPC method since the workload needs to
