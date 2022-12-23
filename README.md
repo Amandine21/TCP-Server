@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">H3 that is center aligned</h3>
+<h1 style="text-align: center;">H3 that is center aligned</h1>
 
 &emsp; This programming assignment aims to implement the TCP request channel to replace
 the FIFO channel. This code was based on the third programming assignment and uses
