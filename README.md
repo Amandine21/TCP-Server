@@ -35,3 +35,6 @@ passed address. Then the connect function was called using the sockaddr_in struc
 the sock fd file descriptor. There was an error check associated with the connect function by
 calling it in an if statement like the previous error checks.
 
+<p align="center">
+  <img src=GraphTCP.PNG>
+</p>
