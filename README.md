@@ -1,6 +1,4 @@
-<div alig="center">
-  <center><h1>My title</h1></center>
-</div>
+# TCP-Server
 
 &emsp; This programming assignment aims to implement the TCP request channel to replace
 the FIFO channel. This code was based on the third programming assignment and uses
